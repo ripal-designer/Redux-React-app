@@ -8,7 +8,7 @@ const Header = () => {
     <div className="ui fixed menu">
       <div className="ui container center">
        
-            <Link to={ProductListing}>      <h2>Myshop</h2>   </Link>
+            <Link to={ProductPage}>      <h2>Myshop</h2>   </Link>
 
 
       </div>
